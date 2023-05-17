@@ -69,7 +69,7 @@ section.img1 {
     background-size: cover;
 }
 
-.img2 {
+section.img2 {
     background: black url(imagens/background002.jpg) right center no-repeat fixed;
     background-size: cover;
 }
