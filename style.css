@@ -10,7 +10,6 @@
     --fonte3: 'Sriracha', cursive;
 }
 
-
 * {
     margin: 0;
     padding: 0;
@@ -80,12 +79,12 @@ section.img2 {
     color: white;
     text-shadow: 1px 1px rgba(0, 0, 0, 0.51);
 }
+
 footer {
     padding: 5px;
     text-align: center;
     background-color: black;
 }
-
 
 footer > p {
     font-family: var(--fonte1);
