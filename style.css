@@ -55,9 +55,9 @@ header a:hover {
 }
 
 article p{
-    padding-top: 10vh;
+    padding-top: 5vh;
     padding-left: 40px;
-    padding-bottom: 10vh;
+    padding-bottom: 5vh;
     font-weight: 400;
     font-family: var(--fonte3);
     color: black;
